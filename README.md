@@ -1,4 +1,4 @@
-# spring-cloudconfig-pune-tolls
+# springcloud-microservices-tolldata
 This repository is used by **"springcloud-microservices" project in module 2**
 
 This acts as a single place repostory for all the configurations to be used by config server
